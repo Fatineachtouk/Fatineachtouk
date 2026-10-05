@@ -58,8 +58,12 @@ I like understanding how a complex system works well enough to make it simpler a
 ## Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/fatine-achtouk-1b0b642aa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:fatine.achtouk2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/fatine-achtouk-1b0b642aa" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:fatine.achtouk2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ## Top Projects
